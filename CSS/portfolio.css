@@ -1,6 +1,7 @@
 *{
   margin: 0px;
   padding: 0px;
+  box-sizing: border-box;
     font-family: "Alice", serif;
     font-weight: 400;
     font-style: normal;
@@ -49,6 +50,9 @@ h1 {
       .butt{
         text-align: center;
       }
+/* button{
+  background-color: #83394A;
+} */
      a.button {
         background-color: #83394A;
         color: white;
